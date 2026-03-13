@@ -1,0 +1,11 @@
+火狐:
+https://registry.npmmirror.com/binary.html?path=geckodriver/
+注解:下载最新版
+
+
+谷歌:
+https://chromedriver.storage.googleapis.com/index.html
+注解:下载与谷歌对应版本
+
+签名隐藏:
+https://github.com/berstend/puppeteer-extra/blob/stealth-js/stealth.min.js
